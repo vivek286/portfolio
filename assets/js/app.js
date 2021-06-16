@@ -21,6 +21,7 @@ let header = $(`
    <li class="nav-item"><a class="nav-link" href="projects.html">Projects</a></li>
    
    <li class="nav-item"><a class="nav-link" href="education.html">Education</a></li>
+    <li class="nav-item"><a class="nav-link" href="https://drive.google.com/file/d/1MhPBC-Ha6bWTn6wj55198oecYNjI8FrY/view?usp=sharing" >Resume</a></li>
    <div class="bike">
    <svg xmlns="http://www.w3.org/2000/svg" viewBox="-80 0 650 400" preserveAspectRatio="xMinYMin meet"> 
      <rect/>
