@@ -189,6 +189,7 @@ img{
   height: calc(100vh - 3rem);
   row-gap: 1rem;
 }
+
 .home__data{
   align-self: center;
 }
@@ -707,9 +708,7 @@ section:nth-child(2n + 1) {
   background-color: white;
 }
 
-section:target {
-  /* background-color: cyan; */
-}
+
 
 
 .section-heading {
