@@ -1114,3 +1114,21 @@ button:focus {
 .m0 {
   margin: 0;
 }
+#Rfooter{
+  height: 10%;
+  width: 100%;
+  background-color: white;
+}
+/* =========ADD STYLING EFFECT======= */
+
+/* jai mata di */
+.skill_contain_{
+  width: 8%;
+  height: 1%;
+  background-color: red;
+  border-radius: 40%;
+}
+.inside{
+  font-size: 2px;
+  font-weight: 800;
+}
