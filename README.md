@@ -1,2 +1,2 @@
 # portfolio
-## TO VIEW [CLICK HERE](https://vivek286.github.io/portfolio/index.html) 
+## TO VIEW [CLICK HERE](https://vivek286.github.io/portfolio/new%20portfolio/index.html) 
