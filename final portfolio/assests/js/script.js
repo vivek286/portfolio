@@ -41,7 +41,7 @@ $(document).ready(function(){
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Portfolio | Saurav Mukherjee";
+        document.title = "Portfolio | Vivek Solanki";
         $("#favicon").attr("href","assests/images/favicon.png");
     }
     else {
